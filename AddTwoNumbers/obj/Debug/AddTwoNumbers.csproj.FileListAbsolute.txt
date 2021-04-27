@@ -1,0 +1,7 @@
+C:\Users\prash\source\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
+C:\Users\prash\source\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
+C:\Users\prash\source\repos\AddTwoNumbers\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
+C:\Users\prash\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.csprojAssemblyReference.cache
+C:\Users\prash\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\prash\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
+C:\Users\prash\source\repos\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb
